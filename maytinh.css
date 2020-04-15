@@ -1,0 +1,28 @@
+table{
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid #cccccc;
+}
+button{
+    width: 30px;
+    height: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: white;
+    outline: none;
+    border: none;
+}
+#vl{
+    text-align: right;
+    height: 45px;
+}
+#container
+{
+    height: 567px;
+    width: 1260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
